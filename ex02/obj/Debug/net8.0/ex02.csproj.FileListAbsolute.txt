@@ -12,3 +12,4 @@ C:\Users\rodolfo.gsilva2\source\repos\logica_programacao\ex02\obj\Debug\net8.0\r
 C:\Users\rodolfo.gsilva2\source\repos\logica_programacao\ex02\obj\Debug\net8.0\ex02.pdb
 C:\Users\rodolfo.gsilva2\source\repos\logica_programacao\ex02\obj\Debug\net8.0\ex02.genruntimeconfig.cache
 C:\Users\rodolfo.gsilva2\source\repos\logica_programacao\ex02\obj\Debug\net8.0\ref\ex02.dll
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao\ex02\obj\Debug\net8.0\ex02.sourcelink.json
