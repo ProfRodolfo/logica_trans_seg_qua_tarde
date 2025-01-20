@@ -1,0 +1,15 @@
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao\ex11\bin\Debug\net8.0\ex11.exe
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao\ex11\bin\Debug\net8.0\ex11.deps.json
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao\ex11\bin\Debug\net8.0\ex11.runtimeconfig.json
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao\ex11\bin\Debug\net8.0\ex11.dll
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao\ex11\bin\Debug\net8.0\ex11.pdb
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao\ex11\obj\Debug\net8.0\ex11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao\ex11\obj\Debug\net8.0\ex11.AssemblyInfoInputs.cache
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao\ex11\obj\Debug\net8.0\ex11.AssemblyInfo.cs
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao\ex11\obj\Debug\net8.0\ex11.csproj.CoreCompileInputs.cache
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao\ex11\obj\Debug\net8.0\ex11.sourcelink.json
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao\ex11\obj\Debug\net8.0\ex11.dll
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao\ex11\obj\Debug\net8.0\refint\ex11.dll
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao\ex11\obj\Debug\net8.0\ex11.pdb
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao\ex11\obj\Debug\net8.0\ex11.genruntimeconfig.cache
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao\ex11\obj\Debug\net8.0\ref\ex11.dll

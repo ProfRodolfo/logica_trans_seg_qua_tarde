@@ -1,0 +1,15 @@
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao\ex26\bin\Debug\net8.0\ex26.exe
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao\ex26\bin\Debug\net8.0\ex26.deps.json
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao\ex26\bin\Debug\net8.0\ex26.runtimeconfig.json
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao\ex26\bin\Debug\net8.0\ex26.dll
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao\ex26\bin\Debug\net8.0\ex26.pdb
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao\ex26\obj\Debug\net8.0\ex26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao\ex26\obj\Debug\net8.0\ex26.AssemblyInfoInputs.cache
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao\ex26\obj\Debug\net8.0\ex26.AssemblyInfo.cs
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao\ex26\obj\Debug\net8.0\ex26.csproj.CoreCompileInputs.cache
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao\ex26\obj\Debug\net8.0\ex26.sourcelink.json
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao\ex26\obj\Debug\net8.0\ex26.dll
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao\ex26\obj\Debug\net8.0\refint\ex26.dll
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao\ex26\obj\Debug\net8.0\ex26.pdb
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao\ex26\obj\Debug\net8.0\ex26.genruntimeconfig.cache
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao\ex26\obj\Debug\net8.0\ref\ex26.dll
