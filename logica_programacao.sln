@@ -17,45 +17,57 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex06", "ex06\ex06.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex07", "ex07\ex07.csproj", "{2B99DE47-93C5-4C6C-8FAA-B65266689758}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex08", "ex08\ex08.csproj", "{0ECA5D00-C5FA-40E0-8126-C35569ECF849}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex08", "ex08\ex08.csproj", "{0ECA5D00-C5FA-40E0-8126-C35569ECF849}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex09", "ex09\ex09.csproj", "{2950C575-09A4-45E7-B4DA-2A2C62C31AB4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex09", "ex09\ex09.csproj", "{2950C575-09A4-45E7-B4DA-2A2C62C31AB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex10", "ex10\ex10.csproj", "{549A56C4-06E3-4A00-A52A-C7E396F8B3D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex10", "ex10\ex10.csproj", "{549A56C4-06E3-4A00-A52A-C7E396F8B3D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex11", "ex11\ex11.csproj", "{F1C3E47A-809A-4A8C-A692-E67CDABE2AD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex11", "ex11\ex11.csproj", "{F1C3E47A-809A-4A8C-A692-E67CDABE2AD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex12", "ex12\ex12.csproj", "{F9E09AB0-26E5-4F64-B5CF-64C2053AB162}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex12", "ex12\ex12.csproj", "{F9E09AB0-26E5-4F64-B5CF-64C2053AB162}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex13", "ex13\ex13.csproj", "{F670AEAE-A065-4136-B1D5-69156F989487}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex13", "ex13\ex13.csproj", "{F670AEAE-A065-4136-B1D5-69156F989487}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex14", "ex14\ex14.csproj", "{8220DE40-4EB9-4404-91F3-650445A08944}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex14", "ex14\ex14.csproj", "{8220DE40-4EB9-4404-91F3-650445A08944}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex15", "ex15\ex15.csproj", "{93BA4C81-ED0A-4884-927F-D6DECB27A05C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex15", "ex15\ex15.csproj", "{93BA4C81-ED0A-4884-927F-D6DECB27A05C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex16", "ex16\ex16.csproj", "{D56F8075-4EEA-4D33-8881-64F229430864}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex16", "ex16\ex16.csproj", "{D56F8075-4EEA-4D33-8881-64F229430864}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex17", "ex17\ex17.csproj", "{BCFF353A-486B-40DB-B315-CFA6CE22258E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex17", "ex17\ex17.csproj", "{BCFF353A-486B-40DB-B315-CFA6CE22258E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex18", "ex18\ex18.csproj", "{1D87A44D-AE91-4EAF-A1C4-69A3EBC39806}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex18", "ex18\ex18.csproj", "{1D87A44D-AE91-4EAF-A1C4-69A3EBC39806}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex19", "ex19\ex19.csproj", "{247718AE-D115-4A97-A31B-063C3A800183}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex19", "ex19\ex19.csproj", "{247718AE-D115-4A97-A31B-063C3A800183}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex20", "ex20\ex20.csproj", "{E74E4309-C19F-4B5B-BF18-EBABF8F43E70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex20", "ex20\ex20.csproj", "{E74E4309-C19F-4B5B-BF18-EBABF8F43E70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex21", "ex21\ex21.csproj", "{2646E877-3B49-430A-918E-CBDCB727168F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex21", "ex21\ex21.csproj", "{2646E877-3B49-430A-918E-CBDCB727168F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex22", "ex22\ex22.csproj", "{1AA16ED6-356B-4B1A-8C90-2106FB04973A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex22", "ex22\ex22.csproj", "{1AA16ED6-356B-4B1A-8C90-2106FB04973A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex23", "ex23\ex23.csproj", "{37C25CE8-6A61-4E70-9DB7-F82E7A563A3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex23", "ex23\ex23.csproj", "{37C25CE8-6A61-4E70-9DB7-F82E7A563A3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex24", "ex24\ex24.csproj", "{9224FF1B-580C-4E74-9A37-AA44864DD4E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex24", "ex24\ex24.csproj", "{9224FF1B-580C-4E74-9A37-AA44864DD4E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex25", "ex25\ex25.csproj", "{7F7EC007-E3A2-4697-BECE-CC6CE49DEC4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex25", "ex25\ex25.csproj", "{7F7EC007-E3A2-4697-BECE-CC6CE49DEC4C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex26", "ex26\ex26.csproj", "{0583F340-BA94-48D8-B45F-461CB0B3A751}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex26", "ex26\ex26.csproj", "{0583F340-BA94-48D8-B45F-461CB0B3A751}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex27", "ex27\ex27.csproj", "{AC750892-C513-4EBE-954F-965DF1BB3BCE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex27", "ex27\ex27.csproj", "{AC750892-C513-4EBE-954F-965DF1BB3BCE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tarefas", "tarefas", "{DC8B6D3F-56D5-424D-BE1C-F7F49BF30BCA}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\lista_01_if_else_if_else.jpg = ..\..\..\Downloads\lista_01_if_else_if_else.jpg
+		..\..\..\Downloads\lista_02-while_do-while_for.jpg = ..\..\..\Downloads\lista_02-while_do-while_for.jpg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "respostas", "respostas", "{2BE254CA-58B7-4A75-B47A-1D91EF179C9C}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\lista_01_if_else_if_else.pdf = ..\..\..\Downloads\lista_01_if_else_if_else.pdf
+		..\..\..\Documents\lista_02-while_do-while_for.pdf = ..\..\..\Documents\lista_02-while_do-while_for.pdf
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -174,6 +186,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2BE254CA-58B7-4A75-B47A-1D91EF179C9C} = {DC8B6D3F-56D5-424D-BE1C-F7F49BF30BCA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {907C8E4E-DD8E-4225-A9F6-2E92ADAD36B3}
